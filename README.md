@@ -1,3 +1,10 @@
+# afus.co
+
+The source of my personal site, at [afus.co](afus.co).
+
+Feel free to fork it and change it however you want.
+___
+
 ### Credits:
 
 * Background Image: The city of Bologna
